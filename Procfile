@@ -1,0 +1,1 @@
+web: java -jar build/libs/biblioteca-api-0.0.1-SNAPSHOT.jar
